@@ -1,0 +1,12 @@
+/* navigation style */
+
+.top-nav{
+    background-color: #131921;
+}
+.custom-link{
+    color:#ffff;
+    font-size:25px;
+}
+.custom-nav{
+    background-color: #232f3e !important;
+}
