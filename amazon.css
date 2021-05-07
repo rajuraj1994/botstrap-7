@@ -10,3 +10,11 @@
 .custom-nav{
     background-color: #232f3e !important;
 }
+.custom-card{
+    overflow: hidden !important;
+}
+.custom-card:hover img{
+    transform: scale(1.5);
+    transition: all 3s;
+    
+}
